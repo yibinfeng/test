@@ -1,3 +1,4 @@
 Client
 
 Feature1: 100%
+Feature2: 100%
